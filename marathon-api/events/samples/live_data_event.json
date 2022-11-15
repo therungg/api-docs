@@ -1,0 +1,29 @@
+{
+  "event": {
+    "type": "event_live_data",
+    "name": "Live Run Data",
+    "description": "Contains data about the currently in progress run from this runner.",
+    "time": "2022-11-15T22:38:40.693Z",
+    "game": "Super Mario 64",
+    "category": "70 Star",
+    "username": "joeys64",
+    "data": {
+      "personalBest": 3030378,
+      "sumOfBests": 2943346,
+      "runStartedAt": "1665652577267",
+      "runStartedAtFromNow": "a month ago",
+      "lastSplitTime": 871594,
+      "deltaToPersonalBest": -18481,
+      "initialPredictedTime": 3140275.666666667,
+      "currentPredictedTime": 3121574.716666667,
+      "deltaCurrentToInitialPredictedTime": -18700.950000000186,
+      "currentBestPossibleTime": 2935391,
+      "currentSplitName": "ccm18",
+      "currentSplitIndex": 2,
+      "totalSplitCount": 13,
+      "nextSplitIndex": 3,
+      "nextSplitName": "ssl24"
+    }
+  },
+  "time": "2022-11-15T22:38:42.680Z"
+}

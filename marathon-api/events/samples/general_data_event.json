@@ -1,0 +1,23 @@
+{
+  "event": {
+    "type": "event_general_data",
+    "name": "General Data",
+    "description": "Contains general data about the current runner.",
+    "time": "2022-11-15T22:37:33.997Z",
+    "game": "Super Mario 64",
+    "category": "70 Star",
+    "username": "joeys64",
+    "data": {
+      "personalBest": "3030378",
+      "personalBestAchievedAt": "2016-07-19T22:11:40.000Z",
+      "attemptCount": 287,
+      "finishedAttemptCount": 6,
+      "completionPercentage": "2.09",
+      "sumOfBests": "2943346",
+      "totalPossibleTimesave": "87032",
+      "totalRunTimeInMilliSeconds": 106797000,
+      "totalRunTimeAsString": "29h 39m"
+    }
+  },
+  "time": "2022-11-15T22:37:40.196Z"
+}

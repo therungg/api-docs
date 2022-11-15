@@ -1,0 +1,19 @@
+{
+  "event": {
+    "game": "Super Mario 64",
+    "data": {
+      "predictedTime": 3140275,
+      "deltaToPredictedTime": -99897,
+      "personalBest": 3030378,
+      "deltaToPersonalBest": 10000,
+      "finalTime": 3040378
+    },
+    "name": "Run Ended Event",
+    "description": "The run ended!",
+    "time": "2022-11-15T22:47:44.983Z",
+    "type": "run_ended_event",
+    "category": "70 Star",
+    "username": "joeys64"
+  },
+  "time": "2022-11-15T22:47:48.343Z"
+}

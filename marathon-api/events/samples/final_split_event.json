@@ -1,0 +1,18 @@
+{
+  "event": {
+    "game": "Super Mario 64",
+    "data": {
+      "pbSplitTime": "570140",
+      "splitName": "bits(70)",
+      "expectedSplitTime": 681743.1666666667,
+      "bestSplitTime": "570140"
+    },
+    "name": "Final Split Event",
+    "description": "Current split is the last split of the run",
+    "time": "2022-11-15T22:46:57.265Z",
+    "type": "final_split_event",
+    "category": "70 Star",
+    "username": "joeys64"
+  },
+  "time": "2022-11-15T22:47:03.958Z"
+}

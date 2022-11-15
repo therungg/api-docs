@@ -1,0 +1,19 @@
+{
+  "event": {
+    "game": "Super Mario 64",
+    "data": {
+      "splitName": "dw12",
+      "newGold": 176890,
+      "previousGold": 189154,
+      "delta": -12264,
+      "finishedSplitAttemptCount": 27
+    },
+    "name": "Gold Split Event",
+    "description": "A gold split was achieved on the previous split",
+    "time": "2022-11-15T22:37:28.093Z",
+    "type": "gold_split_event",
+    "category": "70 Star",
+    "username": "joeys64"
+  },
+  "time": "2022-11-15T22:42:38.997Z"
+}

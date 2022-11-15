@@ -1,0 +1,17 @@
+{
+  "event": {
+    "game": "Super Mario 64",
+    "data": {
+      "achievedTime": 276890,
+      "splitName": "ccm18",
+      "targetTime": 205368
+    },
+    "name": "Worst 10% segment achieved",
+    "description": "Last split was a worst 10% split for this runner",
+    "time": "2022-11-15T22:44:24.392Z",
+    "type": "worst_10_single_segment_event",
+    "category": "70 Star",
+    "username": "joeys64"
+  },
+  "time": "2022-11-15T22:44:27.597Z"
+}

@@ -1,0 +1,16 @@
+{
+  "event": {
+    "game": "Super Mario 64",
+    "data": {
+      "personalBest": 3030378,
+      "expectedEndTime": 3140275.666666667
+    },
+    "name": "Run Started Event",
+    "description": "Triggers when a new run was started",
+    "time": "2022-11-15T22:49:08.956Z",
+    "type": "run_started_event",
+    "category": "70 Star",
+    "username": "joeys64"
+  },
+  "time": "2022-11-15T22:49:12.879Z"
+}

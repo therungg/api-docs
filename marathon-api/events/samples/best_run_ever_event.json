@@ -1,0 +1,17 @@
+{
+  "event": {
+    "game": "Super Mario 64",
+    "data": {
+      "achievedTime": 187255,
+      "splitName": "ccm18",
+      "targetTime": 189154
+    },
+    "name": "Best Run Ever",
+    "description": "The current run is the best run this runner has ever achieved",
+    "time": "2022-11-15T22:37:28.093Z",
+    "type": "best_run_ever_event",
+    "category": "70 Star",
+    "username": "joeys64"
+  },
+  "time": "2022-11-15T22:40:39.316Z"
+}
