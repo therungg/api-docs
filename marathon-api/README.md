@@ -1,3 +1,5 @@
+## Note: the Marathon API is currently only accessible for a specific target group. The URL's will not work.
+
 # Marathon API
 
 The Marathon API is a personalized WebSocket API that sends messages representing Stream Events to its listeners. 
